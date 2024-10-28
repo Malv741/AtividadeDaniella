@@ -5,6 +5,6 @@ public class App {
     }
     
     public static void mostraMensagem(){
-        System.out.println("Bem vindo!! Abaixo temos um Hello World!\n");
+        System.out.println("Bem vindo!! Abaixo temos uma mensagem\n");
     }
 }
